@@ -6,8 +6,8 @@ import (
 	"os"
 	"runtime"
 
-	"cshgitlab.cn-csh.celestica.com/micro-service/truss-patch/linux"
-	"cshgitlab.cn-csh.celestica.com/micro-service/truss-patch/windows"
+	"https://github.com/AllensYgl/truss-patch/linux"
+	"https://github.com/AllensYgl/truss-patch/windows"
 )
 
 var (
