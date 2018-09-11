@@ -15,7 +15,7 @@ go get -u github.com/jteeuwen/go-bindata/...
 go get -u github.com/tuneinc/truss
 
 # install truss-patch
-go get -u -insecure cshgitlab.cn-csh.celestica.com/micro-service/truss-patch
+go get -u github.com/AllensYgl/truss-patch
 
 # do one-time truss patch
 truss-patch
