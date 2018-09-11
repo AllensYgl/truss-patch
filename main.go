@@ -6,8 +6,8 @@ import (
 	"os"
 	"runtime"
 
-	"https://github.com/AllensYgl/truss-patch/linux"
-	"https://github.com/AllensYgl/truss-patch/windows"
+	"github.com/AllensYgl/truss-patch/linux"
+	"github.com/AllensYgl/truss-patch/windows"
 )
 
 var (
